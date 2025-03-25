@@ -1,0 +1,3 @@
+
+# This file i don't want to push to remote application
+.env
